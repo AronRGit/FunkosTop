@@ -1,0 +1,45 @@
+.black{
+    color: black;
+    background-color: black;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 3rem;
+}
+.navitem{
+    text-decoration: none;
+    margin: 1rem;
+    font-size: 1.5rem;
+    font-style: bold;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+nav ul li:hover {
+    background-color: #ffffff;
+}
+.barra{
+    background-color: #afafaf;
+    height: 0.1rem;
+}
+
+.funko{
+    width: 18rem;
+    height: 18rem;
+}
+.w80{
+    width: 45%;
+}
+.hc{
+    width: 70rem;
+    height: 30rem;
+}
+
+.star a {
+    display: inline-block;
+    color: #e2d300;
+    font-size: 1.5rem;
+  }
